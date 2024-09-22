@@ -93,3 +93,13 @@ Nergal'in boyutu ve liste için işlenmesi gereken dosya sayısı nedeniyle bu a
 
 #### Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)
 
+NVIDIA GeForce Grafik Kartınız varsa lütfen aşağıdakileri yapın:
+
+ 1. **NVIDIA Kontrol Panelini** açın
+ 2. **3D Ayarlarının Yönetilmesi** bölümünü açın. Sol yukarıdan 2. seçenek
+ 3. Genel ayarlar kısmından **Gölgelendirici Önbellek Boyutu** ayarını görene kadar aşağı kaydırın 
+ 4. Gölgelendirici Önbellek Boyutu ayarının sol tarafına çift tıklayın ve **10 GB** seçin
+ 5. Sağ alt köşeden **Uygula** butonuna tıklayın
+ 6. Uygulamadan çıkabilirsiniz.
+ ![](https://github.com/user-attachments/assets/c9235651-ca0a-4e9d-b3be-41a1c0709225)
+
