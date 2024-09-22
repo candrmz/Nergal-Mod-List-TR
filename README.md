@@ -12,7 +12,7 @@
     - [Yüklemeden Önce](#Yüklemeden-Önce)
       - [Önkoşullar](#Önkoşullar)
       - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
-      - [Setting Shader Cache Size (NVIDIA Graphics Cards Only)](#setting-shader-cache-size-nvidia-graphics-cards-only)
+      - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için )](#Gölgelendirici-Önbellek-Boyutu-Sadece-NVIDIA-Kartları-İçin)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
