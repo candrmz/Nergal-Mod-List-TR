@@ -14,19 +14,14 @@
       - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)](#Gölgelendirici-Önbellek-Boyutu-Sadece-NVIDIA-Kartları-İçin)
     - [Wabbajack Kurulum](#wabbajack-Kurulum)
       - [Wabbajack'in Kurulumu](#Wabbajack'in-Kurulumu)
-      - [Nergal İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme)
+      - [Nergal'i İndirme ve Yükleme](#Nergal'i-İndirme-ve-Yükleme)
       - [Sorunlu Dosyalar](#Sorunlu-Dosyalar)
     - [Yükleme Problemleri](#Yükleme-Problemleri)
   - [Kurulum Sonrası](#Kurulum-Sonrası)
-    - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Keyboard Keybinds](#keyboard-keybinds)
-    - [Controller Keybinds](#controller-keybinds)
-  - [Playing the List](#playing-the-list)
-    - [Starting the Game](#starting-the-game)
-  - [Updating the Modlist](#updating-the-modlist)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Contact](#contact)
-  - [Credits and Thanks](#credits-and-thanks)
+    - [Klavye Tuşları](#Klavye-Tuşları)
+    - [Oyuna Başlamak](#Oyuna-Başlamak)
+  - [İletişim](#İletişim)
+  - [Teşekkürler](#Teşekkürler)
 
 ## Giriş
 
@@ -147,3 +142,38 @@ Nergal'i yüklemek için aşağıdaki adımları takip edin:
 
 Wabbajack bazen Nexus dışındaki sitelerde barındırılan modları indirirken sorun yaşayabilir. Bu nedenle, size kolaylık sağlamak için birçok sorunlu dosya aşağıda listelenmiştir.
 
+Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme) bölümünde oluşturulan 'Resource Download Location'na yerleştirmeniz gerekecektir.
+
+[HG hairdos 2 SE](https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ)
+[YevMods - Makeup Pack](https://mega.nz/file/xg8hiKLL#4hLdxZm0Mkl8vQzd7aHQC-1g8z8OgR57fVK4iLQiolI)
+[[Christine] Dragon Gladiator](https://drive.google.com/file/d/1oZI09jwLUhquc6SlUSfwH8vrSPzQj2CS/view)
+[MaxsuPoise-v0.34 AE](https://github.com/SkyHorizon3/MaxsuPoise/releases/tag/v0.34)
+
+---
+
+## Kurulum Sonrası
+
+### Klavye Tuşları
+
+### Oyuna başlamak
+
+Kurulum klasörüne gidin ve 'ModOrganizer.exe' adlı yürütülebilir dosyayı bulun ve başlatın.
+
+ 1. MO2'nin sağ üst köşesindeki 'Nergal' yazısının yanındaki 'Çalıştır' yazan düğmeye tıklayın.
+      > Listenin çok büyük olması nedeniyle oyunun ilk açılışında yüklenmesi 5-10 dakika sürebilir. Lütfen sabırlı olun ve MO2 de kilidi kaldır butonuna basmayın.
+ 2. Oyun yüklendikten sonra yeni bir oyuna başlayın. hikayeyi geç seçeneğini seçin ve mağaranın çıkışında başlayın.
+ 3. Karakter yaratma işiniz bitince mağaradan çıkarak oyuna başlayabilirsiniz. (Bazı karakter presetleri yükledim yukarıdan hazır karakterlerle başlayabilirsiniz.)
+
+## İletişim
+
+Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Kitetki](https://discord.gg/5sVFUaVV) discord sunucusuna gelip beni etiketleyerek soru sorabilirsiniz.
+
+**Oyun içerisinde herhangi bir hata ile karşılaşırsanız konsolu açıp hatanın sebep olduğu şeye tıklayarak ss alıp gönderin. Aksi takdirde sorunu bulup düzeltmek çok zor.**
+
+## Teşekkürler
+
+- Axel'e Dövüş animasyonları ve listede bazı hataların çözümünde bulunduğu için teşekkür ederim
+- Kitetki'ye wabbajack sorunlarıyla ilgili yardımda bulunduğu için teşekkür ederim
+- Proton'a SSEedit ile ilgili yardımcı olduğu için teşekkür ederim
+- ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim
+  
