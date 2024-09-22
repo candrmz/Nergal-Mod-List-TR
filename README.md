@@ -7,9 +7,9 @@
 
 
  - [Giriş](#Giriş)
-   - [Sistem Gereksinimler](#Sistem Gereksinimleri)
+   - [Sistem Gereksinimler](#Sistem-Gereksinimleri)
   - [Yükleme](#Yükleme)
-    - [Yüklemeden Önce](#Yüklemeden Önce)
+    - [Yüklemeden Önce](#Yüklemeden-Önce)
       - [Önkoşullar](#Önkoşullar)
       - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
       - [Setting Shader Cache Size (NVIDIA Graphics Cards Only)](#setting-shader-cache-size-nvidia-graphics-cards-only)
