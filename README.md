@@ -39,7 +39,6 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 
 ### Sistem Gereksinimleri
 
-
 **DİKKAT:**
 
 -HDD veya harici SSD kullanmamanızı tavsiye ederim 
