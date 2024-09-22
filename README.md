@@ -30,3 +30,4 @@
   - [Credits and Thanks](#credits-and-thanks)
 ## Giriş
 Nergal, Skyrim Anniversary Edition için türkçe, görselliğe ve dövüş sistemine önem veren bir mod listesidir. Ordinator vb oynanış modları ve bir çok silah, zırh, canavar, büyü modları içerisine dahil edilmiştir.
+If you're curious about the specific mods in the list, Tüm mod listesini buradan görebilirsin [Buraya](https://loadorderlibrary.com/lists/nergal-2).
