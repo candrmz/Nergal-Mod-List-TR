@@ -7,7 +7,7 @@
 
 
  - [Giriş](#Giriş)
-    - [Sistem Gereksinimleri](#Sistem Gereksinimleri)
+   - [Sistem Gereksinimler](Sistem Gereksinimleri)
   - [Yükleme](#Yükleme)
     - [Yüklemeden Önce](#Yüklemeden Önce)
       - [Önkoşullar](#Önkoşullar)
