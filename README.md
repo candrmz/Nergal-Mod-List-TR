@@ -15,9 +15,9 @@
     - [Wabbajack Kurulum](#wabbajack-Kurulum)
       - [Wabbajack'in Kurulumu](#Wabbajack'in-Kurulumu)
       - [Nergal İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme)
-      - [Problematic Files](#problematic-files)
-    - [Problems with Installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
+      - [Sorunlu Dosyalar](#Sorunlu-Dosyalar)
+    - [Yükleme Problemleri](#Yükleme-Problemleri)
+  - [Kurulum Sonrası](#Kurulum-Sonrası)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Keyboard Keybinds](#keyboard-keybinds)
     - [Controller Keybinds](#controller-keybinds)
@@ -102,4 +102,48 @@ NVIDIA GeForce Grafik Kartınız varsa lütfen aşağıdakileri yapın:
  5. Sağ alt köşeden **Uygula** butonuna tıklayın
  6. Uygulamadan çıkabilirsiniz.
  ![](https://github.com/user-attachments/assets/c9235651-ca0a-4e9d-b3be-41a1c0709225)
+
+---
+
+### Wabbajack Kurulum
+
+#### Wabbajack'in Kurulumu
+
+Yüklemeden önce ki adımları tamamladıysanız wabbajack kurulum adımlarını takip edin
+
+1. `Wabbajack` isminde boş bir klasör oluşturun, örneğin `C:\Wabbajack` gibi olabilir. **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
+   > 'Wabbajack' klasörünün bir SSD'de olması gerekmez, ancak kurulumu daha hızlı hale getirir. Yerden tasarruf etmek adına HDD'de bir 'Wabbajack' klasörü oluşturabilirsiniz.
+
+2. [Son wabbajack sürümünü](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) indirin ve 1. adımda oluşturduğunuz klasöre wabbajack.exe dosyasını kopyalayın. Wabbajack'in eski sürümlerini **kullanmayın**.
+
+3. Programı kurmak için Wabbajack klasörünüzün içinde bulunan 'Wabbajack.exe' dosyasına çift tıklayın.
+
+---
+
+#### Nergal'i İndirme ve Yükleme
+
+Nergal'i indirip yüklemek internet bağlantınıza, PC özelliklerine ve Nexus Premium'a sahip olup olmadığınıza bağlı olarak biraz zaman alabilir.
+
+Nergal'i yüklemek için aşağıdaki adımları takip edin:
+
+1. [Son Nergal Sürümünü]() indirip wabbajack klasörüne atın
+
+2.  "Modlist Installation Location" kısmını "C:\Nergal" gibi bir klasöre ayarlayın
+   > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
+
+3. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
+   > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
+
+4. 'Modlist Installation Location' ayarladıktan sonra 'Resource Download Location' satırı otomatik olarak doldurulmalıdır.
+   > 'Resource Download Location' Listenin kurulum konumuyla aynı sürücüde olması gerekmez. Yerden tasarruf etmek amacıyla bu konumu HDD'deki bir klasöre ayarlayabilirsiniz.
+
+5. Kurulumu başlatmak için oynat okuna basın.
+   
+6.Kurulum başarılı olursa [Kurulum Sonrası](#kurulum-sonrası) bölümüne geçin. Kurulum başarısız olursa, [Sorunlu Dosyalar](#sorunlu-dosyalar) bölümüne ve aşağıdaki ipuçlarına bakın veya destek için [İletişim](#iletişim) bölümünü kontrol edin.
+
+---
+
+#### Sorunlu Dosyalar
+
+Wabbajack bazen Nexus dışındaki sitelerde barındırılan modları indirirken sorun yaşayabilir. Bu nedenle, size kolaylık sağlamak için birçok sorunlu dosya aşağıda listelenmiştir.
 
