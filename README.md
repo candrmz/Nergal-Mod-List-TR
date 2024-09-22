@@ -7,7 +7,7 @@
 
 
  - [Giriş](#Giriş)
-   - [Sistem Gereksinimler](#Sistem-Gereksinimleri)
+   - [Sistem Gereksinimleri](#Sistem-Gereksinimleri)
   - [Yükleme](#Yükleme)
     - [Yüklemeden Önce](#Yüklemeden-Önce)
       - [Önkoşullar](#Önkoşullar)
@@ -28,7 +28,28 @@
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Credits and Thanks](#credits-and-thanks)
+
 ## Giriş
+
 Nergal, Skyrim Anniversary Edition için türkçe, görselliğe ve dövüş sistemine önem veren bir mod listesidir. Ordinator vb oynanış modları ve bir çok silah, zırh, canavar, büyü modları içerisine dahil edilmiştir.
 
 Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin [Buradan](https://loadorderlibrary.com/lists/nergal-2).
+
+---
+
+### Sistem Gereksinimleri
+
+
+**DİKKAT:**
+-HDD veya harici SSD kullanmamanızı tavsiye ederim 
+-Steamdan AE versiyonunu almalı ya da SE versiyonu varsa AE sürüm güncellemesini satın almalısınız.
+-Sadece Windowns 10 veya 11 desteklemekte
+-en az 8gb vram'e sahip bir ekran kartına sahip olmalısınız, yoksa oyun içinde takılmalara denk gelebilirsiniz ve oyununuz çökebilir.
+
+| Sistem Kategorisi | Minimum (1080p) | 
+|     :---:    |      :---:    |
+| **İŞLEMCİ**   | R7 5600x / i5 13400f |
+| **EKRAN KARTI**    |  RTX 3060 / RX 6700-XT  | 
+| **Ram**    | 32GB DDR4/5 | 
+| **DEPOLAMA**    | SATA/NVME SSD | 
+| **OS**    | Windows 10/11 | 
