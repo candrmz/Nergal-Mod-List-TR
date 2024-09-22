@@ -40,18 +40,10 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 ### Sistem Gereksinimleri
 
 **DİKKAT:**
-- HDD veya harici SSD kullanmamanızı tavsiye ederim
-- Steamdan AE versiyonunu almalı ya da SE versiyonu varsa AE sürüm güncellemesini satın almalısınız
-- Any remote PC / desktop services or apps are not supported. (Including Steam Link)
-- Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
-- At least 16GB of GPU VRAM minimum is recommended for the list (1080p), otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
-
-
-**DİKKAT:**
--HDD veya harici SSD kullanmamanızı tavsiye ederim
--Steamdan AE versiyonunu almalı ya da SE versiyonu varsa AE sürüm güncellemesini satın almalısınız.
--Sadece Windowns 10 veya 11 desteklemekte
--en az 8gb vram'e sahip bir ekran kartına sahip olmalısınız, yoksa oyun içinde takılmalara denk gelebilirsiniz ve oyununuz çökebilir.
+- HDD veya harici SSD kullanmamanızı tavsiye ederim.
+- Steamdan AE versiyonunu almalı ya da SE versiyonu varsa AE sürüm güncellemesini satın almalısınız.
+- Sadece Windowns 10 veya 11 desteklenmekte.
+- en az 8gb vram'e sahip bir ekran kartına sahip olmalısınız, yoksa oyun içinde takılmalara denk gelebilirsiniz ve oyununuz çökebilir.
 
 | Sistem Kategorisi | Minimum (1080p) | 
 |     :---:    |      :---:    |
