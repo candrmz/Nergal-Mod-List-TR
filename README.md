@@ -10,12 +10,11 @@
    - [Sistem Gereksinimleri](#Sistem-Gereksinimleri)
   - [Yükleme](#Yükleme)
     - [Yüklemeden Önce](#Yüklemeden-Önce)
-      - [Önkoşullar](#Önkoşullar)
-      - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
-      - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için )](#Gölgelendirici-Önbellek-Boyutu-Sadece-NVIDIA-Kartları-İçin)
-    - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Vagabond](#downloading-and-installing-vagabond)
+      - [Sanal Bellek ve Hata Önleme](#Sanal-Bellek-ve-Hata-Önleme)
+      - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)](#Gölgelendirici-Önbellek-Boyutu-Sadece-NVIDIA-Kartları-İçin)
+    - [Wabbajack Kurulum](#wabbajack-Kurulum)
+      - [Wabbajack'in Kurulumu](#Wabbajack'in-Kurulumu)
+      - [Nergal İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme)
       - [Problematic Files](#problematic-files)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
@@ -52,3 +51,45 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 | **Ram**    | 32GB DDR4/5 | 
 | **DEPOLAMA**    | SATA/NVME SSD | 
 | **OS**    | Windows 10/11 | 
+
+İndirme: ~164 GB  
+Kurulum: ~392  GB  
+**TOPLAM:** ~ 556 GB  
+
+## Yükleme
+
+**⚠ DİKKAT ⚠:**
+- **Listeyi yüklemeden önce Skyrim Anniversary Edition son sürümünü kurmanız gerekiyor.**
+
+### Yüklemeden Önce
+
+#### Sanal Bellek ve Hata Önleme
+
+büyük Skyrim mod listeleri önemli miktarda bellek gerektirir ve belleğin tükenmesi **çökmelere ve diğer potansiyel sorunlara neden olur**.
+
+Nergal'in boyutu ve liste için işlenmesi gereken dosya sayısı nedeniyle bu adım isteğe bağlı **DEĞİLDİR**. **Ne kadar RAM veya VRAM'iniz olursa olsun lütfen bu adımı uygulayın.**
+
+
+ 1. **Win Tuşu + R** Basın
+ 2. *sysdm.cpl ,3* yazın ve **ENTER**a tıklayın
+ 3. *Performans* kısmındaki "Ayarlar..." kutusuna tıklayın
+ 4.  Üst kısımdaki *Gelişmiş* sekmesine tıklayın
+ 5. *Sanal Bellek* altında "Değiştir..." kutusunu tıklayın.
+ 6. İşaretliyse *Otomatik olarak yönet* seçeneğinin işaretini kaldırın
+ 7. İdeal olarak en hızlı sürücünüz olan disk sürücünüzü seçin.
+
+      > Bu HDD veya harici SSD **olamaz** 
+
+ 8. **Özel boyut:** düğmesini tıklayın
+ 9. **Başlangıç ​​Boyutu (MB)** seçeneğinin yanındaki kutuya '40960' yazın
+ 10. **En Büyük Boyut (MB)** seçeneğinin yanındaki kutuya '40960' yazın
+ 11. *Ayarla* butonuna tıklayın
+ 12. *Tamam* tıklayın
+ 13. *Uygula* tıklayın
+ 14. *Tamam* tıklayın
+ 15. Sanal bellek etkili olması için bilgisayarınızı yeniden başlatın.
+
+---
+
+#### Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)
+
