@@ -42,8 +42,11 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 
 **DİKKAT:**
 -HDD veya harici SSD kullanmamanızı tavsiye ederim 
+
 -Steamdan AE versiyonunu almalı ya da SE versiyonu varsa AE sürüm güncellemesini satın almalısınız.
+
 -Sadece Windowns 10 veya 11 desteklemekte
+
 -en az 8gb vram'e sahip bir ekran kartına sahip olmalısınız, yoksa oyun içinde takılmalara denk gelebilirsiniz ve oyununuz çökebilir.
 
 | Sistem Kategorisi | Minimum (1080p) | 
