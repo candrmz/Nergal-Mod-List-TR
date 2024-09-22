@@ -16,7 +16,6 @@
       - [Wabbajack'in Kurulumu](#Wabbajack'in-Kurulumu)
       - [Nergal'i İndirme ve Yükleme](#Nergal'i-İndirme-ve-Yükleme)
       - [Sorunlu Dosyalar](#Sorunlu-Dosyalar)
-    - [Yükleme Problemleri](#Yükleme-Problemleri)
   - [Kurulum Sonrası](#Kurulum-Sonrası)
     - [Klavye Tuşları](#Klavye-Tuşları)
     - [Oyuna Başlamak](#Oyuna-Başlamak)
