@@ -154,6 +154,8 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
 
 ### Klavye Tuşları
 
+![keyboard-layout](https://github.com/user-attachments/assets/683b4b0f-947b-49a6-abd8-c735e5000425)
+
 ### Oyuna başlamak
 
 Kurulum klasörüne gidin ve 'ModOrganizer.exe' adlı yürütülebilir dosyayı bulun ve başlatın.
