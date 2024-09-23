@@ -152,6 +152,8 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
 
 ## Kurulum Sonrası
 
+  Eğer 8gb vram kullanıyorsanız vramr adlı programı çalıştırmanızda fayda var. 
+  
 ### Klavye Tuşları
 
 ![keyboard-layout](https://github.com/user-attachments/assets/683b4b0f-947b-49a6-abd8-c735e5000425)
