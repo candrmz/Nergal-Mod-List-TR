@@ -47,7 +47,7 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 | **OS**    | Windows 10/11 | 
 
 İndirme: ~164 GB  
-Kurulum: ~392  GB  
+Kurulum: ~341  GB  
 **TOPLAM:** ~ 556 GB  
 
 ## Yükleme
