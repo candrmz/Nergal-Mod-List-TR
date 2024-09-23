@@ -123,7 +123,7 @@ Nergal'i yüklemek için aşağıdaki adımları takip edin:
 1. [Son Nergal Sürümünü](https://drive.google.com/file/d/1ca81J9zl4jcbieYaxwhLCUhSXe_nlOIg/view?usp=sharing) indirip wabbajack klasörüne atın
 
 2.  "Modlist Installation Location" kısmını "C:\Nergal" gibi bir klasöre ayarlayın
-   > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
+   > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
 
 3. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
    > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
