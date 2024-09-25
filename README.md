@@ -147,7 +147,7 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   - [YevMods - Makeup Pack](https://mega.nz/file/xg8hiKLL#4hLdxZm0Mkl8vQzd7aHQC-1g8z8OgR57fVK4iLQiolI)
   - [[Christine] Dragon Gladiator](https://drive.google.com/file/d/1oZI09jwLUhquc6SlUSfwH8vrSPzQj2CS/view)
   - [MaxsuPoise-v0.34 AE](https://github.com/SkyHorizon3/MaxsuPoise/releases/tag/v0.34)
-
+  - [Heels Sound 1.6](https://drive.google.com/file/d/1cSWbX3yQ1j_Tyr1YRFzJopgd3e9A0f64/view)
 ---
 
 ## Kurulum Sonrası
