@@ -156,7 +156,7 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   
 ### Klavye Tuşları
 
-![keyboard-layout](https://github.com/user-attachments/assets/683b4b0f-947b-49a6-abd8-c735e5000425)
+![keyboard-layout (1)](https://github.com/user-attachments/assets/00515dc4-e531-44f8-b807-844e1e97e185)
 
 ### Oyuna başlamak
 
