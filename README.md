@@ -155,7 +155,7 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   Eğer 8gb vram kullanıyorsanız vramr adlı programı çalıştırmanızda fayda var. 
   
 ### Klavye Tuşları
-
+Tuşlar eski sürüm için ayarlanmıştı eski sürümü kullanıyorsanız bu tuşları kullanın yeni tuş sistemi yükleyeceğim.
 ![keyboard-layout (2)](https://github.com/user-attachments/assets/31101971-0c91-4b46-9b93-0f6d5d8b7c96)
 
 ### Oyuna başlamak
