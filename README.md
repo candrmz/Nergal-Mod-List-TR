@@ -46,9 +46,9 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 | **DEPOLAMA**    | SATA/NVME SSD | 
 | **OS**    | Windows 10/11 | 
 
-İndirme: ~164 GB  
-Kurulum: ~341  GB  
-**TOPLAM:** ~ 556 GB  
+İndirme: ~100 GB  
+Kurulum: ~160  GB  
+**TOPLAM:** ~ 260 GB  
 
 ## Yükleme
 
