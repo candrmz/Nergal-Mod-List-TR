@@ -125,15 +125,12 @@ Nergal'i yüklemek için aşağıdaki adımları takip edin:
 2.  "Modlist Installation Location" kısmını "C:\Nergal" gibi bir klasöre ayarlayın
    > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
 
-3. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond`. 
-   > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
-
-4. 'Modlist Installation Location' ayarladıktan sonra 'Resource Download Location' satırı otomatik olarak doldurulmalıdır.
+3. 'Modlist Installation Location' ayarladıktan sonra 'Resource Download Location' satırı otomatik olarak doldurulmalıdır.
    > 'Resource Download Location' Listenin kurulum konumuyla aynı sürücüde olması gerekmez. Yerden tasarruf etmek amacıyla bu konumu HDD'deki bir klasöre ayarlayabilirsiniz.
 
-5. Kurulumu başlatmak için oynat okuna basın.
+4. Kurulumu başlatmak için oynat okuna basın.
    
-6.Kurulum başarılı olursa [Kurulum Sonrası](#kurulum-sonrası) bölümüne geçin. Kurulum başarısız olursa, [Sorunlu Dosyalar](#sorunlu-dosyalar) bölümüne ve aşağıdaki ipuçlarına bakın veya destek için [İletişim](#iletişim) bölümünü kontrol edin.
+5.Kurulum başarılı olursa [Kurulum Sonrası](#kurulum-sonrası) bölümüne geçin. Kurulum başarısız olursa, [Sorunlu Dosyalar](#sorunlu-dosyalar) bölümüne ve aşağıdaki ipuçlarına bakın veya destek için [İletişim](#iletişim) bölümünü kontrol edin.
 
 ---
 
