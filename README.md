@@ -152,7 +152,8 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   
 ### Klavye Tuşları
 Tuşlar eski sürüm için ayarlanmıştı eski sürümü kullanıyorsanız bu tuşları kullanın yeni tuş sistemi yükleyeceğim.
-![keyboard-layout (2)](https://github.com/user-attachments/assets/31101971-0c91-4b46-9b93-0f6d5d8b7c96)
+![keyboard-layout (2)](https://github.com/user-attachments/assets/94e12514-e4f5-444d-9cff-90b5e99beeee)
+
 
 ### Oyuna başlamak
 
