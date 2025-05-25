@@ -1,4 +1,5 @@
-![splash](https://github.com/user-attachments/assets/54bce3d5-aa78-4c02-be28-da9efb27411f)
+![splash](https://github.com/user-attachments/assets/8a668069-dc08-4446-b986-6f81e9b6d344)
+
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/149723?tab=description">Nexus</a> |
