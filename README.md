@@ -171,8 +171,10 @@ Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Kitetki](ht
 
 ## Teşekkürler
 
-- Axel'e Dövüş animasyonları ve listede bazı hataların çözümünde bulunduğu için teşekkür ederim
-- Kitetki'ye wabbajack sorunlarıyla ilgili yardımda bulunduğu için teşekkür ederim
-- Proton'a SSEedit ile ilgili yardımcı olduğu için teşekkür ederim
-- ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim
+- Axel'e Dövüş animasyonları ve listede bazı hataların çözümünde bulunduğu ve banner hazırladığı için teşekkür ederim.
+- Kitetki'ye wabbajack sorunlarıyla ilgili yardımda bulunduğu için teşekkür ederim.
+- Proton'a SSEedit ile ilgili yardımcı olduğu için teşekkür ederim.
+- Ashloth'a Steam rehberi hazırladığı için teşekkür ederim.
+- Alost'a test ettiği ve mod önerisinde bulunduğu için teşekkür ederim.
+- ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim.
   
