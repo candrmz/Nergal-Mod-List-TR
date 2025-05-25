@@ -42,15 +42,15 @@ Listedeki tüm modları merak ediyorsanız, mod listesini buradan görebilirsin 
 
 | Sistem Kategorisi | Minimum (1080p) | 
 |     :---:    |      :---:    |
-| **İŞLEMCİ**   | R7 5600x / i5 13400f |
+| **İŞLEMCİ**   | R5 5600x / i5 13400f |
 | **EKRAN KARTI**    |  RTX 3060 / RX 6700-XT  | 
-| **Ram**    | 32GB DDR4/5 | 
+| **Ram**    | 16 GB / 32GB DDR4/5 | 
 | **DEPOLAMA**    | SATA/NVME SSD | 
 | **OS**    | Windows 10/11 | 
 
-İndirme: ~115 GB  
-Kurulum: ~185  GB  
-**TOPLAM:** ~ 300 GB  
+İndirme: ~135 GB  
+Kurulum: ~215  GB  
+**TOPLAM:** ~ 350 GB  
 
 ## Yükleme
 
