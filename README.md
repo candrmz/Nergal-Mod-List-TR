@@ -120,7 +120,7 @@ Nergal'i indirip yüklemek internet bağlantınıza, PC özelliklerine ve Nexus 
 
 Nergal'i yüklemek için aşağıdaki adımları takip edin:
 
-1. [Son Nergal Sürümünü](https://drive.google.com/file/d/1-im7EWf5pxmknttUCXqDhcybpEKfbvR0/view?usp=sharing) indirip wabbajack klasörüne atın
+1. [Son Nergal Sürümünü](https://drive.google.com/file/d/11kMWDWNBWsFEuDfpwqTdqEyuyOCNmqt2/view?usp=sharing) indirip wabbajack klasörüne atın
 
 2.  "Modlist Installation Location" kısmını "C:\Nergal" gibi bir klasöre ayarlayın
    > **Program files klasörü, kullanıcı korumaları klasörler (Masaüstü, Dosyalar, İndirilenler, vb.), ya da skyrim steam klasörüne kurmayın**.
