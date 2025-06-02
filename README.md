@@ -176,5 +176,6 @@ Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Kitetki](ht
 - Proton'a SSEedit ile ilgili yardımcı olduğu için teşekkür ederim.
 - Ashloth'a Steam rehberi hazırladığı için teşekkür ederim.
 - Alost'a test ettiği ve mod önerisinde bulunduğu için teşekkür ederim.
+- Predaturk'e rigmor of bruma modunun türkçe yamasını paylaşmama izin verdiği için teşekkür ederim. 
 - ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim.
   
