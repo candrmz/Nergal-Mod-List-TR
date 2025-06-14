@@ -143,7 +143,7 @@ Wabbajack bazen Nexus dışındaki sitelerde barındırılan modları indirirken
 Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme) bölümünde oluşturulan 'Resource Download Location'na yerleştirmeniz gerekecektir.
 
   - [ENB BINARIES](https://drive.google.com/file/d/18rIOtzSG94-ElYZU5-f2t8BQkvoTKc9H/view?usp=sharing)
-  - [HG Hairdos 2](https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ)
+  - [HG Hairdos 2](https://drive.google.com/file/d/1GMV6UF-U7VsQXncY4f6RUvvftibMKwI8/view?usp=sharing)
   - [ANGEL WINGS](https://drive.google.com/file/d/1nv8c9OEIodDDDW9bYUzIVq9bsOA00wbP/view?usp=sharing)
 ---
 
