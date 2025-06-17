@@ -147,6 +147,7 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   - [ANGEL WINGS](https://drive.google.com/file/d/1nv8c9OEIodDDDW9bYUzIVq9bsOA00wbP/view?usp=sharing)
   - [KIRAX MALE](https://drive.google.com/file/d/1vNB2aPZbDVQsJaDqe9mFkeYHz-zv4zVp/view)
   - [KIRAX FEMALE](https://drive.google.com/file/d/19Z9LvBq-ECqG7a6k4tYfG6_f_MgJigu7/edit)
+  - [MAXSU POISE](https://drive.google.com/file/d/1BxOBsxgbcWEnlXdURQ5DvGaHjlU9-24m/view?usp=sharing)
 ---
 
 ## Kurulum Sonrası
