@@ -148,6 +148,7 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   - [KIRAX MALE](https://drive.google.com/file/d/1vNB2aPZbDVQsJaDqe9mFkeYHz-zv4zVp/view)
   - [KIRAX FEMALE](https://drive.google.com/file/d/19Z9LvBq-ECqG7a6k4tYfG6_f_MgJigu7/edit)
   - [MAXSU POISE](https://drive.google.com/file/d/1BxOBsxgbcWEnlXdURQ5DvGaHjlU9-24m/view?usp=sharing)
+  - [MAGIC TR YAMA](https://drive.google.com/file/d/1MC5ldUTcdOioRg2jqvV87QfRLY8oNtxU/view?usp=sharing)
 ---
 
 ## Kurulum Sonrası
