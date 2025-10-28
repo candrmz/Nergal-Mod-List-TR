@@ -142,12 +142,11 @@ Wabbajack bazen Nexus dışındaki sitelerde barındırılan modları indirirken
 
 Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yükleme](#Nergal-İndirme-ve-Yükleme) bölümünde oluşturulan 'Resource Download Location'na yerleştirmeniz gerekecektir.
 
-  - [ENB BINARIES](https://drive.google.com/file/d/18rIOtzSG94-ElYZU5-f2t8BQkvoTKc9H/view?usp=sharing)
+  - [ENB BINARIES](https://drive.google.com/file/d/1jgpk6b_jfeln8M_Duf9aoSOD0Ovk94Q4/view?usp=sharing)
   - [HG Hairdos 2](https://drive.google.com/file/d/1GMV6UF-U7VsQXncY4f6RUvvftibMKwI8/view?usp=sharing)
   - [ANGEL WINGS](https://drive.google.com/file/d/1nv8c9OEIodDDDW9bYUzIVq9bsOA00wbP/view?usp=sharing)
-  - [KIRAX MALE](https://drive.google.com/file/d/1vNB2aPZbDVQsJaDqe9mFkeYHz-zv4zVp/view)
-  - [KIRAX FEMALE](https://drive.google.com/file/d/19Z9LvBq-ECqG7a6k4tYfG6_f_MgJigu7/edit)
   - [MAXSU POISE](https://drive.google.com/file/d/1BxOBsxgbcWEnlXdURQ5DvGaHjlU9-24m/view?usp=sharing)
+  - [Lordbound ai voice](https://drive.google.com/file/d/1EvUN_c-4Mf7S-mnMDuZ--WP3Pq3ITZ7k/view?usp=drive_link)
 ---
 
 ## Kurulum Sonrası
