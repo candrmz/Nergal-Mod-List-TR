@@ -147,6 +147,8 @@ Bu dosyaları **manuel olarak indirmeniz** ve bunları [Nergal'i İndirme ve Yü
   - [ANGEL WINGS](https://drive.google.com/file/d/1nv8c9OEIodDDDW9bYUzIVq9bsOA00wbP/view?usp=sharing)
   - [MAXSU POISE](https://drive.google.com/file/d/1BxOBsxgbcWEnlXdURQ5DvGaHjlU9-24m/view?usp=sharing)
   - [Lordbound ai voice](https://drive.google.com/file/d/1EvUN_c-4Mf7S-mnMDuZ--WP3Pq3ITZ7k/view?usp=drive_link)
+  - [Men of Skyrim](https://drive.google.com/file/d/1L8JKje9j28tIMSx4eXDH9nD7fjeWEEFB/view?usp=drive_link)
+  - [True Sons of Skyrim](https://drive.google.com/file/d/1-ExkubRACqA_lN1LJNf3Q1G7AqMok06Z/view?usp=drive_link)
 ---
 
 ## Kurulum Sonrası
