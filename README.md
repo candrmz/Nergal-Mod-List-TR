@@ -186,6 +186,6 @@ Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Nergal](htt
 - Hakan Kan'a türkçe çevirilerde yardımcı olduğu ve liste için özellikle türkçe çeviri yaptığı için teşekkür ederim.
 - Negatrm'a modların türkçe çevirisini yaptığı için teşekkür ederim.
 - Shinvian'a türkçe çeviri yaptığı için teşekkür ederim. 
-- Predaturk'e rigmor of bruma modunun türkçe yamasını paylaşmama izin verdiği için teşekkür ederim. 
+- Predaturk'e rigmor of bruma modunun türkçe yamasını paylaşmama izin verdiği için teşekkür ederim.(Rigmor of brumayı kaldırdık ama iletişimde bulunduğumuz ve paylaşmama izin verdiği için burada yer vermeye devam edeceğim.)
 - ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim.
   
