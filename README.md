@@ -1,4 +1,4 @@
-![splash](https://github.com/user-attachments/assets/edd0adf0-d1b9-425c-b5fb-6641aecc38ca)
+![splash](<img width="1422" height="800" alt="nergal v4final" src="https://github.com/user-attachments/assets/35ec300a-6294-4271-ba8f-f875f22b9727" />)
 
 
 
