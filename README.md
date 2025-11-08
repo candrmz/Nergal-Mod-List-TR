@@ -170,7 +170,7 @@ Kurulum klasörüne gidin ve 'ModOrganizer.exe' adlı yürütülebilir dosyayı 
 
 ## İletişim
 
-Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Kitetki](https://discord.gg/9rDGJ585fz) discord sunucusuna gelip beni etiketleyerek soru sorabilirsiniz.
+Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Nergal](https://discord.gg/54pVZAx3p9) discord sunucusuna gelip beni etiketleyerek soru sorabilirsiniz.
 
 **Oyun içerisinde herhangi bir hata ile karşılaşırsanız konsolu açıp hatanın sebep olduğu şeye tıklayarak ss alıp gönderin. Aksi takdirde sorunu bulup düzeltmek çok zor.**
 
