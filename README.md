@@ -180,7 +180,11 @@ Tüm Yazılanları yapmanıza rağmen hata ile karşılaşırsanız [Nergal](htt
 - Kitetki'ye wabbajack sorunlarıyla ilgili yardımda bulunduğu için teşekkür ederim.
 - Proton'a SSEedit ile ilgili yardımcı olduğu için teşekkür ederim.
 - Ashloth'a Steam rehberi hazırladığı için teşekkür ederim.
+- Mitko'ya test ettiği ve destekte bulunduğu için teşekkür ederim.
 - Alost'a test ettiği ve mod önerisinde bulunduğu için teşekkür ederim.
+- Zaione'a test ettiği ve bir çok hatada yardımcı olduğu için teşekkür ederim.
+- Hakan Kan'a türkçe çevirilerde yardımcı olduğu ve liste için özellikle türkçe çeviri yaptığı için teşekkür ederim.
+- Negatrm'a modların türkçe çevirisini yaptığı için teşekkür ederim.
 - Shinvian'a türkçe çeviri yaptığı için teşekkür ederim. 
 - Predaturk'e rigmor of bruma modunun türkçe yamasını paylaşmama izin verdiği için teşekkür ederim. 
 - ve Mod önerisinde bulunan, listeyi test eden arkadaşlara da teşekkür ederim.
