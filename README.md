@@ -165,8 +165,10 @@ Kurulum klasörüne gidin ve 'ModOrganizer.exe' adlı yürütülebilir dosyayı 
 
  1. MO2'nin sağ üst köşesindeki 'Nergal' yazısının yanındaki 'Çalıştır' yazan düğmeye tıklayın.
       > Listenin çok büyük olması nedeniyle oyunun ilk açılışında yüklenmesi 5-10 dakika sürebilir. Lütfen sabırlı olun ve MO2 de kilidi kaldır butonuna basmayın.
- 2. Oyun yüklendikten sonra yeni bir oyuna başlayın. hikayeyi geç seçeneğini seçin ve mağaranın çıkışında başlayın.
- 3. Karakter yaratma işiniz bitince mağaradan çıkarak oyuna başlayabilirsiniz. (Bazı karakter presetleri yükledim yukarıdan hazır karakterlerle başlayabilirsiniz.)
+ 2. Oyun yüklendikten sonra yeni bir oyuna başlayın. Bir odanın içinde başlayacaksınız karakterinizi yaratın ve tamam diyin.
+ 3. Biraz bekledikten sonra bir seçim ekranı gelecek isteğe bağlı olarak buradan 2 adet özellik seçebilirsiniz.
+ 4. ardından "esc" basıp mod yapılandırmasına oradan da mcm recorder kısmına gelip nergal'i seçerek run recording demelisiniz, biraz bekledikten sonra oyun içi ayarlar yüklenmiş olacaktır. "F10" tuşuna basarak kısayolları görebilirsiniz.
+ 5. Tüm işlemleri bitirdikten sonra mara heykeli ile konuşup dilediğiniz şekilde oyuna başlayabilirsiniz.
 
 ## İletişim
 
