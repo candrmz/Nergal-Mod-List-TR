@@ -13,7 +13,7 @@
   - [Yükleme](#Yükleme)
     - [Yüklemeden Önce](#Yüklemeden-Önce)
       - [Sanal Bellek ve Hata Önleme](#Sanal-Bellek-ve-Hata-Önleme)
-      - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)](#Gölgelendirici-Önbellek-Boyutu-Sadece-NVIDIA-Kartları-İçin)
+      - [Gölgelendirici Önbellek Boyutu (Sadece NVIDIA Kartları için)](#Gölgelendirici-Önbellek-Boyutu-(Sadece-NVIDIA-Kartları-İçin))
     - [Wabbajack Kurulum](#wabbajack-Kurulum)
       - [Wabbajack'in Kurulumu](#Wabbajack'in-Kurulumu)
       - [Nergal'i İndirme ve Yükleme](#Nergal'i-İndirme-ve-Yükleme)
